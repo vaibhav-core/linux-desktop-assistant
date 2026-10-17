@@ -55,10 +55,11 @@ The LLM should generate structured commands, while the executor remains responsi
 - [x] Better error handling
 - [-] Command aliases (skipped for now)
 - [x] Cleaner parser structure
+- [x] Handle ambiguous file results
+
+phase 1 completed on oct 17th 
 
 ## Remaining
-
-- [ ] Handle ambiguous file results
 
 ---
 
